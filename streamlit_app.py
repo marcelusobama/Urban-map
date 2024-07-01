@@ -10,7 +10,7 @@ Aplicativo Criado em Pyhthon - BrisaGeo
 
 st.sidebar.title("About")
 st.sidebar.info(markdown)
-logo = "https://i.imgur.com/UbOXYAU.png"
+logo = "https://brisageo.com.br/wp-content/uploads/2023/08/222.png"
 st.sidebar.image(logo)
 
 # Customize page title
