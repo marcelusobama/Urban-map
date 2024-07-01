@@ -2,7 +2,7 @@ import streamlit as st
 import leafmap.foliumap as leafmap
 
 
-st.title("Interactive Map")
+st.title("Mapa Interativo")
 
 col1, col2 = st.columns([4, 1])
 options = list(leafmap.basemaps.keys())
