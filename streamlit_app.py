@@ -5,8 +5,7 @@ st.set_page_config(layout="wide")
 
 # Customize the sidebar
 markdown = """
-Web App URL: <https://geotemplate.streamlit.app>
-GitHub Repository: <https://github.com/giswqs/streamlit-multipage-template>
+Aplicativo Criado em Pyhthon - BrisaGeo
 """
 
 st.sidebar.title("About")
