@@ -10,7 +10,7 @@ index = options.index("OpenTopoMap")
 
 with col2:
 
-    basemap = st.selectbox("Select a basemap:", options, index)
+    basemap = st.selectbox("Selecione Mapa Base:", options, index)
 
 
 with col1:
