@@ -7,7 +7,7 @@ st.set_page_config(layout="wide")
 st.title("Comparação de Mapas")
 
 #with st.expander("See source code"):
-    #with st.echo():
+    with st.echo():
         m = leafmap.Map()
         m.split_map(
             left_layer='ESA WorldCover 2020 S2 FCC', right_layer='ESA WorldCover 2020'
