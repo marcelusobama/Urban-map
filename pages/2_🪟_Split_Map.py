@@ -6,7 +6,7 @@ st.set_page_config(layout="wide")
 
 st.title("Comparação de Mapas")
 
-#with st.expander("See source code"):
+with st.expander("See source code"):
     with st.echo():
         m = leafmap.Map()
         m.split_map(
