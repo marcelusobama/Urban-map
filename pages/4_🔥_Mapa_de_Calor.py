@@ -8,7 +8,7 @@ st.title("Mapa de Calor")
 
 with st.expander("See source code"):
     with st.echo():
-        filepath = "https://github.com/marcelusobama/Urban-map/blob/master/cidades_sp.csv?plain=1"
+        filepath = "https://github.com/marcelusobama/Urban-map/blob/master/cidades_sp.csv"
         m = leafmap.Map(center=[-14.235, -51.9253], zoom=4)
         m.add_heatmap(
             filepath,
