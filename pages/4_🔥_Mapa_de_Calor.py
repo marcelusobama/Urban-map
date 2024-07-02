@@ -4,7 +4,7 @@ import leafmap.foliumap as leafmap
 st.set_page_config(layout="wide")
 
 
-st.title("Heatmap")
+st.title("Mapa de Calor")
 
 with st.expander("See source code"):
     with st.echo():
