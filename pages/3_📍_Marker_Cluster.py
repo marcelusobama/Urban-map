@@ -19,7 +19,7 @@ with st.expander("See source code"):
     with st.echo():
 
         m = leafmap.Map(center=[40, -100], zoom=4)
-        cities = 'https://raw.githubusercontent.com/giswqs/leafmap/master/examples/data/us_cities.csv'
+        cities = 'https://github.com/marcelusobama/Urban-map/blob/master/br_cidades.csv'
         regions = 'https://raw.githubusercontent.com/giswqs/leafmap/master/examples/data/us_regions.geojson'
 
         m.add_geojson(regions, layer_name='US Regions')
