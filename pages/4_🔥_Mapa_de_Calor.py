@@ -16,7 +16,7 @@ m.add_heatmap(
     longitude="longitude",
     value="pop_max",
     name="Heat map",
-    radius=20,
+    radius=10,
 )
         
       
