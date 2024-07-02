@@ -1,0 +1,147 @@
+city;sob_a3;latitude;longitude;pop_max;region
+São Paulo;BR;-23,55;-46,6333;23086000;São Paulo
+Rio de Janeiro;BR;-22,9111;-43,2056;12592000;Rio de Janeiro
+Belo Horizonte;BR;-19,9167;-43,9333;5328000;Minas Gerais
+Fortaleza;BR;-3,7275;-38,5275;4167996;Ceará
+Brasília;BR;-15,7939;-47,8828;2817068;Distrito Federal
+Salvador;BR;-12,9747;-38,4767;2418005;Bahia
+Manaus;BR;-3,1189;-60,0217;2063547;Amazonas
+Santos;BR;-23,9369;-46,325;1897551;São Paulo
+Curitiba;BR;-25,4297;-49,2711;1773733;Paraná
+Recife;BR;-8,05;-34,9;1488920;Pernambuco
+Goiânia;BR;-16,6667;-49,25;1437237;Goiás
+Porto Alegre;BR;-30,0331;-51,23;1332570;Rio Grande do Sul
+Guarulhos;BR;-23,4628;-46,5328;1324781;São Paulo
+Belém;BR;-1,4558;-48,5039;1303389;Pará
+Campinas;BR;-22,9058;-47,0608;1213792;São Paulo
+São Luís;BR;-2,5283;-44,3044;1037775;Maranhão
+São Gonçalo;BR;-22,8269;-43,0539;896744;Rio de Janeiro
+João Pessoa;BR;-7,12;-34,88;833932;Paraíba
+Natal;BR;-5,7833;-35,2;751300;Rio Grande do Norte
+Santo André;BR;-23,6572;-46,5333;748919;São Paulo
+Osasco;BR;-23,5328;-46,7919;743432;São Paulo
+Jaboatão;BR;-8,1803;-35,0014;702621;Pernambuco
+Aracaju;BR;-10,9167;-37,05;664908;Sergipe
+Jaboatão dos Guararapes;BR;-8,1122;-35,0156;643759;Pernambuco
+Contagem;BR;-19,9319;-44,0539;621865;Minas Gerais
+Macapá;BR;0,033;-51,05;512902;Amapá
+Niterói;BR;-22,8833;-43,1036;496696;Rio de Janeiro
+Ananindeua;BR;-1,3658;-48,3719;478778;Pará
+Vila Velha;BR;-20,3364;-40,2936;472762;Espírito Santo
+Mauá;BR;-23,6678;-46,4608;418261;São Paulo
+Diadema;BR;-23,6861;-46,6106;393237;São Paulo
+Carapicuíba;BR;-23,5192;-46,8358;387121;São Paulo
+Olinda;BR;-8;-34,8833;349976;Pernambuco
+Praia Grande;BR;-24,0061;-46,4028;349935;São Paulo
+Canoas;BR;-29,92;-51,18;347657;Rio Grande do Sul
+Paulista;BR;-7,9408;-34,8728;342167;Pernambuco
+São Vicente;BR;-23,9633;-46,3922;329844;São Paulo
+Ribeirão das Neves;BR;-19,7669;-44,0869;329794;Minas Gerais
+Vitória;BR;-20,2889;-40,3083;322869;Espírito Santo
+Guarujá;BR;-23,9936;-46,2564;311230;São Paulo
+Taboão da Serra;BR;-23,5328;-46,7994;273542;São Paulo
+Arapiraca;BR;-9,7519;-36,6608;234696;Alagoas
+Maracanaú;BR;-3,8667;-38,6333;234392;Ceará
+Itapevi;BR;-23,5489;-46,9342;223404;São Paulo
+São Leopoldo;BR;-29,76;-51,1469;217410;Rio Grande do Sul
+Hortolândia;BR;-22,8583;-47,22;215819;São Paulo
+Lauro de Freitas;BR;-12,8939;-38,3269;203334;Bahia
+Alvorada;BR;-29,9897;-51,0833;187315;Rio Grande do Sul
+Ferraz de Vasconcelos;BR;-23,5411;-46,3689;184700;São Paulo
+Ibirité;BR;-20,0219;-44,0589;170387;Minas Gerais
+Francisco Morato;BR;-23,2817;-46,7425;168243;São Paulo
+São Caetano do Sul;BR;-23,7;-46,55;165655;São Paulo
+Camarajibe;BR;-8,0219;-34,9808;155054;Pernambuco
+Cachoeirinha;BR;-29,9508;-51,0939;136258;Rio Grande do Sul
+Jandira;BR;-23,5278;-46,9028;126356;São Paulo
+Várzea Paulista;BR;-23,2114;-46,8283;115771;São Paulo
+Poá;BR;-23,5286;-46,345;113793;São Paulo
+São Pedro da Aldeia;BR;-22,8389;-42,1028;106049;Rio de Janeiro
+Iguatu;BR;-6,3589;-39,2989;103074;Ceará
+Valença;BR;-13,37;-39,069;97873;Bahia
+Barra do Corda;BR;-5,5;-45,25;88492;Maranhão
+Serrinha;BR;-11,661;-39,007;83275;Bahia
+Bayeux;BR;-7,1333;-34,9333;82742;Paraíba
+Senhor do Bonfim;BR;-10,45;-40,1833;79424;Bahia
+Esteio;BR;-29,8608;-51,1789;76137;Rio Grande do Sul
+Pacajus;BR;-4,1667;-38,4667;73188;Ceará
+Campo Formoso;BR;-10,5089;-40,3208;71377;Bahia
+Brumado;BR;-14,2036;-41,6653;70268;Bahia
+Mineiros;BR;-17,5703;-52,5553;70073;Goiás
+Biguaçu;BR;-27,5;-48,6667;69486;Santa Catarina
+Janaúba;BR;-15,8014;-43,2764;66803;Minas Gerais
+Itamaraju;BR;-17,0667;-39,5333;64455;Bahia
+Morada Nova;BR;-5,1069;-38,3728;61738;Ceará
+Euclides da Cunha;BR;-10,5078;-39,0139;61456;Bahia
+Parobé;BR;-29,6289;-50,835;58858;Rio Grande do Sul
+Pedro Leopoldo;BR;-19,6178;-44,0428;58740;Minas Gerais
+Ponte Nova;BR;-20,4158;-42,9089;57390;Minas Gerais
+Ibiporã;BR;-23,2833;-51,05;55131;Paraná
+Capitão Poço;BR;-1,75;-47,0833;54425;Pará
+Itapagé;BR;-3,6833;-39,5833;53067;Ceará
+Coelho Neto;BR;-4,2569;-43,0128;49621;Maranhão
+Campo Maior;BR;-4,8333;-42,1736;46893;Piauí
+São Sebastião do Passé;BR;-12,5128;-38,495;44430;Bahia
+Jacarèzinho;BR;-23,1608;-49,9689;39322;Paraná
+Itaitinga;BR;-3,9667;-38,5167;38325;Ceará
+São Desidério;BR;-12,3667;-44,9667;34266;Bahia
+São Sebastião;BR;-9,9339;-36,5539;34211;Alagoas
+Monteiro;BR;-7,8889;-37,12;33433;Paraíba
+Santo Antônio do Tauá;BR;-1,1833;-48,1333;31918;Pará
+São Gotardo;BR;-19,3108;-46,0489;31819;Minas Gerais
+Riacho de Santana;BR;-13,6089;-42,9389;30711;Bahia
+Bujaru;BR;-1,5167;-48,0167;29427;Pará
+Humberto de Campos;BR;-2,6;-43,4667;28932;Maranhão
+Traipu;BR;-9,9708;-37,0028;27826;Alagoas
+Quijingue;BR;-10,75;-39,2;27626;Bahia
+Porto Calvo;BR;-9,045;-35,3978;27288;Alagoas
+Ipu;BR;-4,3257;-40,7103;26678;Ceará
+Arapoti;BR;-24,1667;-49,6667;25777;Paraná
+Ibiapina;BR;-3,9228;-40,8889;25082;Ceará
+Matinha;BR;-3,1008;-45,0339;23482;Maranhão
+Coração de Maria;BR;-12,2328;-38,75;22495;Bahia
+Jaicós;BR;-7,35;-41,1333;19170;Piauí
+Passagem Franca;BR;-6,1667;-43,7833;19137;Maranhão
+Ingá;BR;-7,2678;-35,6128;18144;Paraíba
+Taperoá;BR;-7,2078;-36,8261;15441;Paraíba
+Elesbão Veloso;BR;-6,2167;-42,1333;13607;Piauí
+Destêrro;BR;-7,2908;-37,0939;8315;Paraíba
+Corumbiara;BR;-12,9619;-60,8867;7519;Rondônia
+Murici;BR;-9,31;-35,9421;;Alagoas
+Pojuca;BR;-12,4321;-38,3308;;Bahia
+Sítio Novo do Tocantins;BR;-5,5183;-47,4611;;Tocantins
+Nossa Senhora do Ó;BR;-8,4439;-35,0142;;Pernambuco
+Bacatu;BR;-3,8395;-44,8932;;Maranhão
+Cabo;BR;-8,2833;-35,0333;;Pernambuco
+Boa Vista;BR;-2,9711;-57,5897;;Amazonas
+Feira Nova;BR;-7,9499;-35,3873;;Pernambuco
+Milagres;BR;-7,3163;-38,9428;;Ceará
+Sapezal;BR;-13,5464;-58,8205;;Mato Grosso
+Campestre;BR;-6,17;-47,3634;;Maranhão
+Iracema;BR;-5,8128;-38,3049;;Ceará
+São Domingos;BR;-5,5402;-48,7303;;Pará
+Jaborandi;BR;-20,6931;-48,4115;;São Paulo
+Vera Cruz;BR;-6,0436;-35,4291;;Rio Grande do Norte
+Jaçanã;BR;-6,4267;-36,2009;;Rio Grande do Norte
+Ituverava;BR;-20,3394;-47,7806;;São Paulo
+Ouro Branco;BR;-10,9739;-41,0809;;Bahia
+Aparecida;BR;-16,8167;-49,25;;Goiás
+Taipu;BR;-5,6249;-35,5974;;Rio Grande do Norte
+Mari;BR;-7,0602;-35,3136;;Paraíba
+Retirolândia;BR;-11,493;-39,4274;;Bahia
+Tangará;BR;-6,199;-35,8005;;Rio Grande do Norte
+Riberaozinho;BR;-5,75;-47,3591;;Maranhão
+Santa Teresa;BR;-16,484;-49,0939;;Goiás
+Lago da Pedra;BR;-4,2867;-45,2382;;Maranhão
+Itinga da Serra;BR;-10,5667;-40,2833;;Bahia
+Formosa;BR;-6,4355;-46,1883;;Maranhão
+Chambioá;BR;-6,4086;-48,5357;;Pará
+Augusto Severo;BR;-5,8621;-37,3112;;Rio Grande do Norte
+Espírito Santo;BR;-6,331;-35,3098;;Rio Grande do Norte
+Querência;BR;-12,5945;-52,2076;;Mato Grosso
+Perdizes;BR;-19,3542;-47,2967;;Minas Gerais
+Equador;BR;-6,9465;-36,7174;;Rio Grande do Norte
+Viçosa;BR;-9,372;-36,2441;;Alagoas
+Santana;BR;-3,1444;-44,3247;;Maranhão
+Iguaba;BR;-10,2835;-37,926;;Bahia
+Canarana;BR;-13,5527;-52,2663;;Mato Grosso
