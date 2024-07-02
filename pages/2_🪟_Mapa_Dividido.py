@@ -8,7 +8,7 @@ st.title("Comparação de Mapas")
 
 with st.expander("See source code"):
     with st.echo():
-        m = leafmap.Map(google_map="HYBRID", center=[-15.83, -47.86], zoom=4)
+        m = leafmap.Map(google_map="HYBRID", center=[-15.83, -47.86], zoom=10)
         m.split_map(
             left_layer='ESA WorldCover 2020 S2 FCC', right_layer='ESA WorldCover 2020'
         )
