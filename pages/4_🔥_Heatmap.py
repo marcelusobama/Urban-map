@@ -8,7 +8,7 @@ st.title("Heatmap")
 
 with st.expander("See source code"):
     with st.echo():
-        filepath = "https://github.com/marcelusobama/Urban-map/blob/master/br_cidades.csv"
+        filepath = "https://raw.githubusercontent.com/giswqs/leafmap/master/examples/data/us_cities.csv"
         m = leafmap.Map(center=[-15, -48], zoom=4, tiles="stamentoner")
         m.add_heatmap(
             filepath,
