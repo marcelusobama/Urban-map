@@ -1,21 +1,23 @@
 import streamlit as st
-import leafmap.foliumap as leafmap
+import leafmap.leafmap as leafmap
 
-st.set_page_config(layout="wide")
-
-
-st.title("Mapa de Calor")
+# Modificação do endereço do link
+filepath = "https://github.com/marcelusobama/Urban-map/blob/master/MunicipiosBrasil.csv"
 
 with st.expander("See source code"):
     with st.echo():
-     filepath = "https://raw.githubusercontent.com/giswqs/leafmap/master/examples/data/us_cities.csv"
-m = leafmap.Map(center=[40, -100], zoom=4)
-m.add_heatmap(
-    filepath,
-    latitude="latitude",
-    longitude="longitude",
-    value="pop_max",
-    name="Heat map",
-    radius=20,
-)
-m.to_streamlit(height=700)
+        # Inicialização do mapa com centro e zoom definidos
+        m = leafmap.Map(center=[-14.235, -51.9253], zoom=4)  # Ajustando o centro para o Brasil
+
+        # Adicionando o heatmap ao mapa
+        m.add_heatmap(
+            filepath,
+            latitude="latitude",
+            longitude="longitude",
+            value="region",  # Ajuste conforme os dados no CSV
+            name="Heat map",
+            radius=20,
+        )
+
+        # Exibindo o mapa no Streamlit
+        m.to_streamlit(height=700)
