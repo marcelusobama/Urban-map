@@ -16,7 +16,7 @@ with st.expander("See source code"):
     'Floresta Tropical': '#006400',
     'Arbustivo' : 'FFBB22',      
     'Pastagem': '#7FFF00',
-    'Terras Cultivadas': '#FFD700',
+    'Terras Cultivadas': 'F096FF',
     'Corpos de água permanentes': '0064C8',
     'Construído' : 'FA0000',
     'Manguezais' : '00CF75',    
