@@ -1,0 +1,109 @@
+﻿city;latitude;longitude;country;iso2;admin_name;capital;population
+São Paulo;-23,55;-46,6333;Brazil;BR;São Paulo;admin;23086000
+Rio de Janeiro;-22,9111;-43,2056;Brazil;BR;Rio de Janeiro;admin;12592000
+Belo Horizonte;-19,9167;-43,9333;Brazil;BR;Minas Gerais;admin;5328000
+Fortaleza;-3,7275;-38,5275;Brazil;BR;Ceará;admin;4167996
+Brasília;-15,7939;-47,8828;Brazil;BR;Distrito Federal;primary;2817068
+Salvador;-12,9747;-38,4767;Brazil;BR;Bahia;admin;2418005
+Manaus;-3,1189;-60,0217;Brazil;BR;Amazonas;admin;2063547
+Santos;-23,9369;-46,325;Brazil;BR;São Paulo;;1897551
+Curitiba;-25,4297;-49,2711;Brazil;BR;Paraná;admin;1773733
+Recife;-8,05;-34,9;Brazil;BR;Pernambuco;admin;1488920
+Goiânia;-16,6667;-49,25;Brazil;BR;Goiás;admin;1437237
+Porto Alegre;-30,0331;-51,23;Brazil;BR;Rio Grande do Sul;admin;1332570
+Guarulhos;-23,4628;-46,5328;Brazil;BR;São Paulo;;1324781
+Belém;-1,4558;-48,5039;Brazil;BR;Pará;admin;1303389
+Campinas;-22,9058;-47,0608;Brazil;BR;São Paulo;;1213792
+São Luís;-2,5283;-44,3044;Brazil;BR;Maranhão;admin;1037775
+São Gonçalo;-22,8269;-43,0539;Brazil;BR;Rio de Janeiro;;896744
+João Pessoa;-7,12;-34,88;Brazil;BR;Paraíba;admin;833932
+Natal;-5,7833;-35,2;Brazil;BR;Rio Grande do Norte;admin;751300
+Santo André;-23,6572;-46,5333;Brazil;BR;São Paulo;;748919
+Osasco;-23,5328;-46,7919;Brazil;BR;São Paulo;;743432
+Jaboatão;-8,1803;-35,0014;Brazil;BR;Pernambuco;;702621
+Aracaju;-10,9167;-37,05;Brazil;BR;Sergipe;admin;664908
+Jaboatão dos Guararapes;-8,1122;-35,0156;Brazil;BR;Pernambuco;minor;643759
+Contagem;-19,9319;-44,0539;Brazil;BR;Minas Gerais;;621865
+Macapá;0,033;-51,05;Brazil;BR;Amapá;admin;512902
+Niterói;-22,8833;-43,1036;Brazil;BR;Rio de Janeiro;;496696
+Ananindeua;-1,3658;-48,3719;Brazil;BR;Pará;;478778
+Vila Velha;-20,3364;-40,2936;Brazil;BR;Espírito Santo;;472762
+Mauá;-23,6678;-46,4608;Brazil;BR;São Paulo;;418261
+Diadema;-23,6861;-46,6106;Brazil;BR;São Paulo;;393237
+Carapicuíba;-23,5192;-46,8358;Brazil;BR;São Paulo;;387121
+Olinda;-8;-34,8833;Brazil;BR;Pernambuco;minor;349976
+Praia Grande;-24,0061;-46,4028;Brazil;BR;São Paulo;;349935
+Canoas;-29,92;-51,18;Brazil;BR;Rio Grande do Sul;;347657
+Paulista;-7,9408;-34,8728;Brazil;BR;Pernambuco;minor;342167
+São Vicente;-23,9633;-46,3922;Brazil;BR;São Paulo;;329844
+Ribeirão das Neves;-19,7669;-44,0869;Brazil;BR;Minas Gerais;;329794
+Vitória;-20,2889;-40,3083;Brazil;BR;Espírito Santo;admin;322869
+Guarujá;-23,9936;-46,2564;Brazil;BR;São Paulo;;311230
+Taboão da Serra;-23,5328;-46,7994;Brazil;BR;São Paulo;;273542
+Arapiraca;-9,7519;-36,6608;Brazil;BR;Alagoas;minor;234696
+Maracanaú;-3,8667;-38,6333;Brazil;BR;Ceará;minor;234392
+Itapevi;-23,5489;-46,9342;Brazil;BR;São Paulo;;223404
+São Leopoldo;-29,76;-51,1469;Brazil;BR;Rio Grande do Sul;;217410
+Hortolândia;-22,8583;-47,22;Brazil;BR;São Paulo;;215819
+Lauro de Freitas;-12,8939;-38,3269;Brazil;BR;Bahia;minor;203334
+Alvorada;-29,9897;-51,0833;Brazil;BR;Rio Grande do Sul;;187315
+Ferraz de Vasconcelos;-23,5411;-46,3689;Brazil;BR;São Paulo;;184700
+Ibirité;-20,0219;-44,0589;Brazil;BR;Minas Gerais;;170387
+Francisco Morato;-23,2817;-46,7425;Brazil;BR;São Paulo;;168243
+São Caetano do Sul;-23,7;-46,55;Brazil;BR;São Paulo;;165655
+Camarajibe;-8,0219;-34,9808;Brazil;BR;Pernambuco;minor;155054
+Cachoeirinha;-29,9508;-51,0939;Brazil;BR;Rio Grande do Sul;;136258
+Jandira;-23,5278;-46,9028;Brazil;BR;São Paulo;;126356
+Várzea Paulista;-23,2114;-46,8283;Brazil;BR;São Paulo;;115771
+Poá;-23,5286;-46,345;Brazil;BR;São Paulo;;113793
+São Pedro da Aldeia;-22,8389;-42,1028;Brazil;BR;Rio de Janeiro;;106049
+Iguatu;-6,3589;-39,2989;Brazil;BR;Ceará;minor;103074
+Valença;-13,37;-39,069;Brazil;BR;Bahia;minor;97873
+Barra do Corda;-5,5;-45,25;Brazil;BR;Maranhão;minor;88492
+Serrinha;-11,661;-39,007;Brazil;BR;Bahia;minor;83275
+Bayeux;-7,1333;-34,9333;Brazil;BR;Paraíba;minor;82742
+Senhor do Bonfim;-10,45;-40,1833;Brazil;BR;Bahia;;79424
+Esteio;-29,8608;-51,1789;Brazil;BR;Rio Grande do Sul;;76137
+Pacajus;-4,1667;-38,4667;Brazil;BR;Ceará;minor;73188
+Campo Formoso;-10,5089;-40,3208;Brazil;BR;Bahia;minor;71377
+Brumado;-14,2036;-41,6653;Brazil;BR;Bahia;;70268
+Mineiros;-17,5703;-52,5553;Brazil;BR;Goiás;minor;70073
+Biguaçu;-27,5;-48,6667;Brazil;BR;Santa Catarina;;69486
+Janaúba;-15,8014;-43,2764;Brazil;BR;Minas Gerais;;66803
+Itamaraju;-17,0667;-39,5333;Brazil;BR;Bahia;;64455
+Morada Nova;-5,1069;-38,3728;Brazil;BR;Ceará;minor;61738
+Euclides da Cunha;-10,5078;-39,0139;Brazil;BR;Bahia;minor;61456
+Parobé;-29,6289;-50,835;Brazil;BR;Rio Grande do Sul;;58858
+Pedro Leopoldo;-19,6178;-44,0428;Brazil;BR;Minas Gerais;;58740
+Ponte Nova;-20,4158;-42,9089;Brazil;BR;Minas Gerais;;57390
+Ibiporã;-23,2833;-51,05;Brazil;BR;Paraná;;55131
+Capitão Poço;-1,75;-47,0833;Brazil;BR;Pará;minor;54425
+Itapagé;-3,6833;-39,5833;Brazil;BR;Ceará;minor;53067
+Coelho Neto;-4,2569;-43,0128;Brazil;BR;Maranhão;minor;49621
+Campo Maior;-4,8333;-42,1736;Brazil;BR;Piauí;minor;46893
+São Sebastião do Passé;-12,5128;-38,495;Brazil;BR;Bahia;minor;44430
+Jacarèzinho;-23,1608;-49,9689;Brazil;BR;Paraná;;39322
+Itaitinga;-3,9667;-38,5167;Brazil;BR;Ceará;minor;38325
+São Desidério;-12,3667;-44,9667;Brazil;BR;Bahia;;34266
+São Sebastião;-9,9339;-36,5539;Brazil;BR;Alagoas;;34211
+Monteiro;-7,8889;-37,12;Brazil;BR;Paraíba;;33433
+Santo Antônio do Tauá;-1,1833;-48,1333;Brazil;BR;Pará;minor;31918
+São Gotardo;-19,3108;-46,0489;Brazil;BR;Minas Gerais;;31819
+Riacho de Santana;-13,6089;-42,9389;Brazil;BR;Bahia;;30711
+Bujaru;-1,5167;-48,0167;Brazil;BR;Pará;minor;29427
+Humberto de Campos;-2,6;-43,4667;Brazil;BR;Maranhão;minor;28932
+Traipu;-9,9708;-37,0028;Brazil;BR;Alagoas;;27826
+Quijingue;-10,75;-39,2;Brazil;BR;Bahia;minor;27626
+Porto Calvo;-9,045;-35,3978;Brazil;BR;Alagoas;minor;27288
+Ipu;-4,3257;-40,7103;Brazil;BR;Ceará;minor;26678
+Arapoti;-24,1667;-49,6667;Brazil;BR;Paraná;;25777
+Ibiapina;-3,9228;-40,8889;Brazil;BR;Ceará;minor;25082
+Matinha;-3,1008;-45,0339;Brazil;BR;Maranhão;minor;23482
+Coração de Maria;-12,2328;-38,75;Brazil;BR;Bahia;minor;22495
+Jaicós;-7,35;-41,1333;Brazil;BR;Piauí;minor;19170
+Passagem Franca;-6,1667;-43,7833;Brazil;BR;Maranhão;minor;19137
+Ingá;-7,2678;-35,6128;Brazil;BR;Paraíba;minor;18144
+Taperoá;-7,2078;-36,8261;Brazil;BR;Paraíba;minor;15441
+Elesbão Veloso;-6,2167;-42,1333;Brazil;BR;Piauí;minor;13607
+Destêrro;-7,2908;-37,0939;Brazil;BR;Paraíba;minor;8315
+Corumbiara;-12,9619;-60,8867;Brazil;BR;Rondônia;minor;7519
