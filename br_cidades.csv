@@ -1,0 +1,147 @@
+city,lat,lng,country,iso2,admin_name,capital,population,population_proper
+São Paulo,-23.5500,-46.6333,Brazil,BR,São Paulo,admin,23086000,12252023
+Rio de Janeiro,-22.9111,-43.2056,Brazil,BR,Rio de Janeiro,admin,12592000,6520000
+Belo Horizonte,-19.9167,-43.9333,Brazil,BR,Minas Gerais,admin,5328000,2502557
+Fortaleza,-3.7275,-38.5275,Brazil,BR,Ceará,admin,4167996,2703391
+Brasília,-15.7939,-47.8828,Brazil,BR,Distrito Federal,primary,2817068,2817068
+Salvador,-12.9747,-38.4767,Brazil,BR,Bahia,admin,2418005,2418005
+Manaus,-3.1189,-60.0217,Brazil,BR,Amazonas,admin,2063547,2063547
+Santos,-23.9369,-46.3250,Brazil,BR,São Paulo,,1897551,418608
+Curitiba,-25.4297,-49.2711,Brazil,BR,Paraná,admin,1773733,1773733
+Recife,-8.0500,-34.9000,Brazil,BR,Pernambuco,admin,1488920,1488920
+Goiânia,-16.6667,-49.2500,Brazil,BR,Goiás,admin,1437237,1437237
+Porto Alegre,-30.0331,-51.2300,Brazil,BR,Rio Grande do Sul,admin,1332570,1332570
+Guarulhos,-23.4628,-46.5328,Brazil,BR,São Paulo,,1324781,1324781
+Belém,-1.4558,-48.5039,Brazil,BR,Pará,admin,1303389,1303389
+Campinas,-22.9058,-47.0608,Brazil,BR,São Paulo,,1213792,1213792
+São Luís,-2.5283,-44.3044,Brazil,BR,Maranhão,admin,1037775,1037775
+São Gonçalo,-22.8269,-43.0539,Brazil,BR,Rio de Janeiro,,896744,896744
+João Pessoa,-7.1200,-34.8800,Brazil,BR,Paraíba,admin,833932,833932
+Natal,-5.7833,-35.2000,Brazil,BR,Rio Grande do Norte,admin,751300,751300
+Santo André,-23.6572,-46.5333,Brazil,BR,São Paulo,,748919,748919
+Osasco,-23.5328,-46.7919,Brazil,BR,São Paulo,,743432,743432
+Jaboatão,-8.1803,-35.0014,Brazil,BR,Pernambuco,,702621,702621
+Aracaju,-10.9167,-37.0500,Brazil,BR,Sergipe,admin,664908,664908
+Jaboatão dos Guararapes,-8.1122,-35.0156,Brazil,BR,Pernambuco,minor,643759,643759
+Contagem,-19.9319,-44.0539,Brazil,BR,Minas Gerais,,621865,621865
+Macapá,0.0330,-51.0500,Brazil,BR,Amapá,admin,512902,512902
+Niterói,-22.8833,-43.1036,Brazil,BR,Rio de Janeiro,,496696,496696
+Ananindeua,-1.3658,-48.3719,Brazil,BR,Pará,,478778,478778
+Vila Velha,-20.3364,-40.2936,Brazil,BR,Espírito Santo,,472762,472762
+Mauá,-23.6678,-46.4608,Brazil,BR,São Paulo,,418261,418261
+Diadema,-23.6861,-46.6106,Brazil,BR,São Paulo,,393237,393237
+Carapicuíba,-23.5192,-46.8358,Brazil,BR,São Paulo,,387121,387121
+Olinda,-8.0000,-34.8833,Brazil,BR,Pernambuco,minor,349976,349976
+Praia Grande,-24.0061,-46.4028,Brazil,BR,São Paulo,,349935,349935
+Canoas,-29.9200,-51.1800,Brazil,BR,Rio Grande do Sul,,347657,347657
+Paulista,-7.9408,-34.8728,Brazil,BR,Pernambuco,minor,342167,342167
+São Vicente,-23.9633,-46.3922,Brazil,BR,São Paulo,,329844,329844
+Ribeirão das Neves,-19.7669,-44.0869,Brazil,BR,Minas Gerais,,329794,329794
+Vitória,-20.2889,-40.3083,Brazil,BR,Espírito Santo,admin,322869,322869
+Guarujá,-23.9936,-46.2564,Brazil,BR,São Paulo,,311230,311230
+Taboão da Serra,-23.5328,-46.7994,Brazil,BR,São Paulo,,273542,273542
+Arapiraca,-9.7519,-36.6608,Brazil,BR,Alagoas,minor,234696,234696
+Maracanaú,-3.8667,-38.6333,Brazil,BR,Ceará,minor,234392,234392
+Itapevi,-23.5489,-46.9342,Brazil,BR,São Paulo,,223404,223404
+São Leopoldo,-29.7600,-51.1469,Brazil,BR,Rio Grande do Sul,,217410,217410
+Hortolândia,-22.8583,-47.2200,Brazil,BR,São Paulo,,215819,215819
+Lauro de Freitas,-12.8939,-38.3269,Brazil,BR,Bahia,minor,203334,203334
+Alvorada,-29.9897,-51.0833,Brazil,BR,Rio Grande do Sul,,187315,187315
+Ferraz de Vasconcelos,-23.5411,-46.3689,Brazil,BR,São Paulo,,184700,184700
+Ibirité,-20.0219,-44.0589,Brazil,BR,Minas Gerais,,170387,170387
+Francisco Morato,-23.2817,-46.7425,Brazil,BR,São Paulo,,168243,168243
+São Caetano do Sul,-23.7000,-46.5500,Brazil,BR,São Paulo,,165655,165655
+Camarajibe,-8.0219,-34.9808,Brazil,BR,Pernambuco,minor,155054,155054
+Cachoeirinha,-29.9508,-51.0939,Brazil,BR,Rio Grande do Sul,,136258,136258
+Jandira,-23.5278,-46.9028,Brazil,BR,São Paulo,,126356,126356
+Várzea Paulista,-23.2114,-46.8283,Brazil,BR,São Paulo,,115771,115771
+Poá,-23.5286,-46.3450,Brazil,BR,São Paulo,,113793,113793
+São Pedro da Aldeia,-22.8389,-42.1028,Brazil,BR,Rio de Janeiro,,106049,106049
+Iguatu,-6.3589,-39.2989,Brazil,BR,Ceará,minor,103074,103074
+Valença,-13.3700,-39.0690,Brazil,BR,Bahia,minor,97873,97873
+Barra do Corda,-5.5000,-45.2500,Brazil,BR,Maranhão,minor,88492,88492
+Serrinha,-11.6610,-39.0070,Brazil,BR,Bahia,minor,83275,83275
+Bayeux,-7.1333,-34.9333,Brazil,BR,Paraíba,minor,82742,82742
+Senhor do Bonfim,-10.4500,-40.1833,Brazil,BR,Bahia,,79424,79424
+Esteio,-29.8608,-51.1789,Brazil,BR,Rio Grande do Sul,,76137,76137
+Pacajus,-4.1667,-38.4667,Brazil,BR,Ceará,minor,73188,73188
+Campo Formoso,-10.5089,-40.3208,Brazil,BR,Bahia,minor,71377,71377
+Brumado,-14.2036,-41.6653,Brazil,BR,Bahia,,70268,70268
+Mineiros,-17.5703,-52.5553,Brazil,BR,Goiás,minor,70073,70073
+Biguaçu,-27.5000,-48.6667,Brazil,BR,Santa Catarina,,69486,69486
+Janaúba,-15.8014,-43.2764,Brazil,BR,Minas Gerais,,66803,66803
+Itamaraju,-17.0667,-39.5333,Brazil,BR,Bahia,,64455,64455
+Morada Nova,-5.1069,-38.3728,Brazil,BR,Ceará,minor,61738,61738
+Euclides da Cunha,-10.5078,-39.0139,Brazil,BR,Bahia,minor,61456,61456
+Parobé,-29.6289,-50.8350,Brazil,BR,Rio Grande do Sul,,58858,58858
+Pedro Leopoldo,-19.6178,-44.0428,Brazil,BR,Minas Gerais,,58740,58740
+Ponte Nova,-20.4158,-42.9089,Brazil,BR,Minas Gerais,,57390,57390
+Ibiporã,-23.2833,-51.0500,Brazil,BR,Paraná,,55131,55131
+Capitão Poço,-1.7500,-47.0833,Brazil,BR,Pará,minor,54425,54425
+Itapagé,-3.6833,-39.5833,Brazil,BR,Ceará,minor,53067,53067
+Coelho Neto,-4.2569,-43.0128,Brazil,BR,Maranhão,minor,49621,49621
+Campo Maior,-4.8333,-42.1736,Brazil,BR,Piauí,minor,46893,46893
+São Sebastião do Passé,-12.5128,-38.4950,Brazil,BR,Bahia,minor,44430,44430
+Jacarèzinho,-23.1608,-49.9689,Brazil,BR,Paraná,,39322,39322
+Itaitinga,-3.9667,-38.5167,Brazil,BR,Ceará,minor,38325,38325
+São Desidério,-12.3667,-44.9667,Brazil,BR,Bahia,,34266,34266
+São Sebastião,-9.9339,-36.5539,Brazil,BR,Alagoas,,34211,34211
+Monteiro,-7.8889,-37.1200,Brazil,BR,Paraíba,,33433,33433
+Santo Antônio do Tauá,-1.1833,-48.1333,Brazil,BR,Pará,minor,31918,31918
+São Gotardo,-19.3108,-46.0489,Brazil,BR,Minas Gerais,,31819,31819
+Riacho de Santana,-13.6089,-42.9389,Brazil,BR,Bahia,,30711,30711
+Bujaru,-1.5167,-48.0167,Brazil,BR,Pará,minor,29427,29427
+Humberto de Campos,-2.6000,-43.4667,Brazil,BR,Maranhão,minor,28932,28932
+Traipu,-9.9708,-37.0028,Brazil,BR,Alagoas,,27826,27826
+Quijingue,-10.7500,-39.2000,Brazil,BR,Bahia,minor,27626,27626
+Porto Calvo,-9.0450,-35.3978,Brazil,BR,Alagoas,minor,27288,27249
+Ipu,-4.3257,-40.7103,Brazil,BR,Ceará,minor,26678,26678
+Arapoti,-24.1667,-49.6667,Brazil,BR,Paraná,,25777,25777
+Ibiapina,-3.9228,-40.8889,Brazil,BR,Ceará,minor,25082,25082
+Matinha,-3.1008,-45.0339,Brazil,BR,Maranhão,minor,23482,23482
+Coração de Maria,-12.2328,-38.7500,Brazil,BR,Bahia,minor,22495,22495
+Jaicós,-7.3500,-41.1333,Brazil,BR,Piauí,minor,19170,19170
+Passagem Franca,-6.1667,-43.7833,Brazil,BR,Maranhão,minor,19137,19137
+Ingá,-7.2678,-35.6128,Brazil,BR,Paraíba,minor,18144,18144
+Taperoá,-7.2078,-36.8261,Brazil,BR,Paraíba,minor,15441,15441
+Elesbão Veloso,-6.2167,-42.1333,Brazil,BR,Piauí,minor,13607,13607
+Destêrro,-7.2908,-37.0939,Brazil,BR,Paraíba,minor,8315,8315
+Corumbiara,-12.9619,-60.8867,Brazil,BR,Rondônia,minor,7519,7519
+Murici,-9.3100,-35.9421,Brazil,BR,Alagoas,minor,,
+Pojuca,-12.4321,-38.3308,Brazil,BR,Bahia,minor,,
+Sítio Novo do Tocantins,-5.5183,-47.4611,Brazil,BR,Tocantins,minor,,
+Nossa Senhora do Ó,-8.4439,-35.0142,Brazil,BR,Pernambuco,minor,,
+Bacatu,-3.8395,-44.8932,Brazil,BR,Maranhão,minor,,
+Cabo,-8.2833,-35.0333,Brazil,BR,Pernambuco,minor,,
+Boa Vista,-2.9711,-57.5897,Brazil,BR,Amazonas,minor,,
+Feira Nova,-7.9499,-35.3873,Brazil,BR,Pernambuco,minor,,
+Milagres,-7.3163,-38.9428,Brazil,BR,Ceará,minor,,
+Sapezal,-13.5464,-58.8205,Brazil,BR,Mato Grosso,minor,,
+Campestre,-6.1700,-47.3634,Brazil,BR,Maranhão,minor,,
+Iracema,-5.8128,-38.3049,Brazil,BR,Ceará,minor,,
+São Domingos,-5.5402,-48.7303,Brazil,BR,Pará,minor,,
+Jaborandi,-20.6931,-48.4115,Brazil,BR,São Paulo,minor,,
+Vera Cruz,-6.0436,-35.4291,Brazil,BR,Rio Grande do Norte,minor,,
+Jaçanã,-6.4267,-36.2009,Brazil,BR,Rio Grande do Norte,minor,,
+Ituverava,-20.3394,-47.7806,Brazil,BR,São Paulo,minor,,
+Ouro Branco,-10.9739,-41.0809,Brazil,BR,Bahia,minor,,
+Aparecida,-16.8167,-49.2500,Brazil,BR,Goiás,minor,,
+Taipu,-5.6249,-35.5974,Brazil,BR,Rio Grande do Norte,minor,,
+Mari,-7.0602,-35.3136,Brazil,BR,Paraíba,minor,,
+Retirolândia,-11.4930,-39.4274,Brazil,BR,Bahia,minor,,
+Tangará,-6.1990,-35.8005,Brazil,BR,Rio Grande do Norte,minor,,
+Riberaozinho,-5.7500,-47.3591,Brazil,BR,Maranhão,minor,,
+Santa Teresa,-16.4840,-49.0939,Brazil,BR,Goiás,minor,,
+Lago da Pedra,-4.2867,-45.2382,Brazil,BR,Maranhão,minor,,
+Itinga da Serra,-10.5667,-40.2833,Brazil,BR,Bahia,minor,,
+Formosa,-6.4355,-46.1883,Brazil,BR,Maranhão,minor,,
+Chambioá,-6.4086,-48.5357,Brazil,BR,Pará,minor,,
+Augusto Severo,-5.8621,-37.3112,Brazil,BR,Rio Grande do Norte,minor,,
+Espírito Santo,-6.3310,-35.3098,Brazil,BR,Rio Grande do Norte,minor,,
+Querência,-12.5945,-52.2076,Brazil,BR,Mato Grosso,minor,,
+Perdizes,-19.3542,-47.2967,Brazil,BR,Minas Gerais,minor,,
+Equador,-6.9465,-36.7174,Brazil,BR,Rio Grande do Norte,minor,,
+Viçosa,-9.3720,-36.2441,Brazil,BR,Alagoas,minor,,
+Santana,-3.1444,-44.3247,Brazil,BR,Maranhão,minor,,
+Iguaba,-10.2835,-37.9260,Brazil,BR,Bahia,minor,,
+Canarana,-13.5527,-52.2663,Brazil,BR,Mato Grosso,minor,,
