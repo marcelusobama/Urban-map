@@ -12,9 +12,9 @@ with st.expander("See source code"):
 m = leafmap.Map(center=[-15, -48], zoom=4)
 m.add_heatmap(
     filepath,
-    latitude="latitude",
-    longitude="longitude",
-    value="pop_max",
+    latitude="Latitude",
+    longitude="Longitude",
+    value="Valor",
     name="Heat map",
     radius=20,
 )
