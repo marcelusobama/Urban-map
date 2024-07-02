@@ -14,8 +14,12 @@ with st.expander("See source code"):
         )
         legend_dict = {
     'Floresta Tropical': '#006400',
+    'Arbustivo' : 'FFBB22',      
     'Pastagem': '#7FFF00',
     'Terras Cultivadas': '#FFD700',
+    'Corpos de água permanentes': '0064C8',
+    'Construído' : 'FA0000',
+    'Manguezais' : '00CF75',    
     # Adicione outras categorias e cores conforme necessário
 }
 
